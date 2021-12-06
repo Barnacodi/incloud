@@ -1,0 +1,15 @@
+...........ref....
+CSCI-B 555 Machine Learning Course Project: Digit Recognition Spring 2015 Indiana University
+Eman Hassan Eihal Alowaisheq
+April. 29, 2015
+Introduction
+In this project we are implementing a digit recognizer for Kaggle competition. The goal of this competition is to classify images based on their pixel values and predict the digit shown in the image
+.................................................
+guid
+..............
+1. soft,,,,line point make.. (x=x -y=y)
+2. linknet for matrix ( x=x, y=y, z=z, reconginisinpixel and digi number for node labelling, \
+- x1-x?, y1-y?, z1-z?-upwardspoints digi softmax representation.
+- x?(x,y,z), y?(x,y,z), z for brevity - horiontal dimensions at various digi-points
+sec1- for measurements, and fitting recurssion
+...................................................

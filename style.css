@@ -1,0 +1,48 @@
+body {
+background-image: url("IMG_2924.JPG");
+background-color: brown;
+
+}
+#menus {
+color: white;
+}
+H1 {
+color: #eeefff;
+}
+background-color: white;
+
+img {
+width: 30px;
+height: 30px;
+}
+nav {
+padding: 25px;
+
+background: orange;
+}
+.bf {
+float: left;
+padding: 20px;
+color: yellow;
+background-color: black;
+}
+.bf:hover {
+background-color: green;
+}
+header {
+background: green;
+}
+
+menu {
+background-color: green;
+}
+.DrMakai {
+background-image: url("research.PNG")
+}
+.special {
+background-color: red;
+}
+
+.fridge {
+background-color: yellow;
+}

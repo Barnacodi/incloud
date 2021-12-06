@@ -1,0 +1,22 @@
+body {
+background-color: black;
+color: white;
+
+}
+h1 {
+background: Red;
+}
+nav {
+background: blue;
+
+}
+span {
+padding: 10px;
+color: red;
+background-color: yellow;
+}
+
+
+span:hover {
+background-color: green;
+}

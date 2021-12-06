@@ -1,0 +1,67 @@
+body {
+
+  background: green;
+  color: red;
+  text-shadow: display;
+  border: 4px;
+  padding: 25px;
+  height: auto;
+  width: auto;
+  line-height: normal;
+  border-radius: 0;
+  font-family: sans-serif;
+  font-size: 14px;
+  
+  
+
+}
+img {
+padding:25px
+width: 25px;
+height: 22px;
+}
+header {
+background-color: black;
+}
+h3 {
+padding: auto;
+margin: auto;
+}
+
+h1 {
+color: white;
+}
+
+.big {
+font-color: red;
+background: blue;
+width: auto;
+height: auto;
+float: left;
+text-align: center;
+
+}
+iframe {
+float: right;
+}
+.musicLists {
+float: centre;
+}
+.audi {
+background-color: yellow;
+float: right;
+}
+.a1 .a3 .a3 {
+float: left;
+}
+
+
+.vidi {
+background-color: red;
+}
+.foot {
+backround-color: black;
+}
+p{
+color: white;
+}

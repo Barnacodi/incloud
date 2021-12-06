@@ -1,0 +1,26 @@
+body {
+background-color: black;
+}
+
+.iconimg {
+float: right;
+width: 200px;
+height: 200px;
+}
+
+
+
+table {
+float: left;
+}
+td {
+float: right;
+width: 10em;
+height: 5em;
+}
+img {
+
+width: 10em;
+height: 4em;
+}
+

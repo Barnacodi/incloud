@@ -1,0 +1,24 @@
+<html><head>
+<link rel="stylesheet" href="script.css">
+<script>
+function myfunction() {
+
+var numba = "this is our value from script: ";
+document.getElementById("mytext").innerHTML = numba;
+}
+function docwrite(variable){
+document.write(variable);
+
+}
+
+
+</script>
+
+
+
+</head>
+<body onload="myfunction()"><script>me= myfunction();me.numba;</script><p>this is our value from script: <span id="mytext"></span></p>
+<script>var numbar = "<p>this is it</p>"; for (var i=0; i<10;i++)docwrite(numbar);</script>
+</body>
+
+</html>
